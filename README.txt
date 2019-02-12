@@ -1,1 +1,2 @@
 Első gyakorlat
+asd
