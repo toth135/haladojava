@@ -1,3 +1,6 @@
 Első gyakorlat
-asf
+asd
 Saját kulcs generálás mindenkinek saját!!! videót kell keresni
+
+
+modositas!
